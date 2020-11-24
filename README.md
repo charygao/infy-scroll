@@ -37,7 +37,7 @@ Infy Scroll is an extension in beta that lets you add customized infinite scroll
 - No Ads, No Tracking, No Bloat
 
 ## Help Guide
-[View the Help Guide!](https://github.com/roysix/infy-scroll/wiki)
+[View the Help Guide!](https://github.com/roysix/infy-scroll/wiki/Help)
 
 ## Version History
 [Here's the Version History!](https://github.com/roysix/infy-scroll/blob/master/docs/VERSION.md)
@@ -79,14 +79,12 @@ Infy Scroll does *not* collect or transmit any data from your device or computer
 ## Credits and Special Thanks
 <ul>
   <li>Infy: <a href="https://twitter.com/thejoyfool" target="_blank">Joyfool</a></li>
-  <li>Database: <a href="http://wedata.net/databases/AutoPagerize/items" target="_blank">AutoPagerize</a></li>
+  <li>Database: <a href="http://wedata.net/databases/AutoPagerize/items" target="_blank">AutoPagerize | Wedata</a></li>
   <li>UI: <a href="https://material.io/" target="_blank">Material Design</a></li>
   <li>Icons: <a href="https://fontawesome.com/" target="_blank">FontAwesome</a></li>
   <li>Animations: <a href="https://ianlunn.github.io/Hover/" target="_blank">Hover.css</a></li>
   <li>Tooltips: <a href="https://kazzkiq.github.io/balloon.css/" target="_blank">Balloon.css</a></li>
-  <li>Dialogs: <a href="https://github.com/mikewest" target="_blank">Mike West</a></li>
   <li>Loading: <a href="https://loading.io/" target="_blank">Loading.io</a></li>
-  <li>Code Fragments: <a href="https://stackoverflow.com/" target="_blank">Stack Overflow Users</a></li>
   <li>With Special Thanks: <a href="#">LostPacket</a></li>
 </ul>
 
