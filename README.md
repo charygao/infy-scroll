@@ -88,7 +88,10 @@ Infy Scroll does *not* collect or transmit any data from your device or computer
   <li>With Special Thanks: <a href="#">LostPacket</a></li>
 </ul>
 
-## Copyright and License
+## License
+<a href="https://github.com/roysix/infy-scroll/blob/master/LICENSE">View License</a>
+
+## Copyright
 Infy Scroll  
-Copyright © 2015-2020 Roy Six  
-<a href="https://github.com/roysix/infy-scroll/blob/master/LICENSE">License</a>
+Copyright &copy; 2015-2020 <a href="https://github.com/roysix" target="_blank">Roy Six</a>  
+Character Design and Artwork Copyright &copy; 2020 <a href="https://twitter.com/thejoyfool" target="_blank">Joyfool</a>
