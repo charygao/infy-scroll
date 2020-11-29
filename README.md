@@ -39,9 +39,6 @@ Infy Scroll is an extension in beta that lets you add customized infinite scroll
 ## Help Guide
 [View the Help Guide!](https://github.com/roysix/infy-scroll/wiki/Help)
 
-## Version History
-[Here's the Version History!](https://github.com/roysix/infy-scroll/blob/master/docs/VERSION.md)
-
 ## Mini FAQ
 
 #### Is Infy Scroll like AutoPagerize and PageZipper?
